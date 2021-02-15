@@ -1,4 +1,2 @@
 try.txt
-tmp/todo.txt
-b
-a
+tmp/*
